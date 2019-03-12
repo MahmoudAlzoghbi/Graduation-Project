@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">شطبلى Shattably</string>
+
+    <string name="Email_Address">اسم المستخدم او رقم الموبايل</string>
+    <string name="Password">كلمة السر</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="sign_up">انشاء حساب جديد</string>
+    <string name="workerProfile">الصفحه الشخصيه للعامل</string>
+    <string name="confirmPhoneNumber">تاكيد رقم الموبايل </string>
+    <string name="todo">background</string>
+    <string name="client_f_name">name </string>
+    <string name="client_address">address</string>
+    <string name="client_email">username or phone number</string>
+    <string name="client_password">password</string>
+    <string name="client_con_password">confirm password</string>
+    <string name="client_btn_sign_up">create an account</string>
+
+    <string name="Back_Ground">Back_Ground_Photo</string>
+    <string name="forget_pass">هل نسيت كلمه السر ؟</string>
+    <string name="btn_sign_up">إنشاء حساب جديد الان</string>
+    <string name="تسجيل">تسجيل الدخول</string>
+    <string name="sign_up_hint">اذا لم يكن لديك حساب ؟</string>
+    <string name="Full_Name">الاسم كامل</string>
+    <string name="age">سنه الميلاد</string>
+    <string name="Phone_Number">رقم الموبايل</string>
+    <string name="address">العنوان </string>
+    <string name="Password_sign_up">كلمة السر</string>
+    <string name="Confirm_Password_sign_up">تأكيد كلمة السر</string>
+    <string name="radio_button">موافق على شروط الاستخدام وسياسه الخصوصيه</string>
+    <string name="button_register">انشاء حساب</string>
+    <string name="confirmation_number">رمز التاكيد</string>
+    <string name="worker">Worker(عامل)</string>
+    <string name="client">Customer(عميل)</string>
+    <string name="type_of_job">المهنه او القسم التابع له</string>
+    <string name="confirm_ph_number">ادخل رمز التاكيد</string>
+
+</resources>
