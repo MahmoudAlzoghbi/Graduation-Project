@@ -105,6 +105,10 @@ public class ClientSignUpActivity extends AppCompatActivity {
     public void checkUserFoundOrNot(String mesage){
         if (!mesage.isEmpty()){
             Intent intent = new Intent(ClientSignUpActivity.this , ClientProfile.class);
+            Bundle bu = new Bundle();
+            bu.putString("name" , getName());
+            bu.putString("phoneNumber" , getEmail());
+            intent.putExtras(bu);
             startActivity(intent);
         }
     }

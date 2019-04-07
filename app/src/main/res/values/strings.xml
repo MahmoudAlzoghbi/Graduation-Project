@@ -10,7 +10,7 @@
     <string name="todo">background</string>
     <string name="client_f_name">name </string>
     <string name="client_address">address</string>
-    <string name="client_email">username or phone number</string>
+    <string name="client_email">phone number</string>
     <string name="client_password">password</string>
     <string name="client_con_password">confirm password</string>
     <string name="client_btn_sign_up">create an account</string>
@@ -33,5 +33,56 @@
     <string name="client">Customer(عميل)</string>
     <string name="type_of_job">المهنه او القسم التابع له</string>
     <string name="confirm_ph_number">ادخل رمز التاكيد</string>
+    
+    <string-array name="government">
+        <item>Cairo</item>
+        <item>Alexandria</item>
+        <item>Giza</item>
+        <item>Aswan</item>
+    </string-array>
+
+    <string-array name="category">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="cairo_area">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="alex_area">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="giza_area">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="aswan_area">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
 
 </resources>

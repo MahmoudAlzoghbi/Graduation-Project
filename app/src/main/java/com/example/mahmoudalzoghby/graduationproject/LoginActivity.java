@@ -98,7 +98,7 @@ public class LoginActivity extends AppCompatActivity {
     public void checkUserFoundOrNot(String mesage){
 
         if (mesage.equals("user found ")){
-            Intent intent = new Intent(this , WorkerProfile.class);
+            Intent intent = new Intent(this , ClientProfile.class);
             startActivity(intent);
 
         }
